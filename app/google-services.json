@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105109995414",
+    "project_id": "cashcard-9e6e4",
+    "storage_bucket": "cashcard-9e6e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105109995414:android:f2fb97ef4016488135e7b7",
+        "android_client_info": {
+          "package_name": "com.manyu.cashcard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHVXNk_BrJAokn4-XT-KMCaGKvUtOrhEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
